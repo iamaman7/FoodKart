@@ -1,2 +1,3 @@
 # FoodKart
-Food Ordering App- MERN
+-----------------------
+Food Ordering App- MERN 
